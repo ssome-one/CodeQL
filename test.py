@@ -1,2 +1,2 @@
-for i in codeql:
+for i in codeql
   print(i)
